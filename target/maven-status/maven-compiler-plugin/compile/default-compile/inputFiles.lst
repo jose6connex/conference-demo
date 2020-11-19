@@ -1,0 +1,9 @@
+/Users/jmesa/Workspace/training/spring-boot-example/conference-demo/src/main/java/com/pluralsight/conferencedemo/ConferenceDemoApplication.java
+/Users/jmesa/Workspace/training/spring-boot-example/conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/HomeController.java
+/Users/jmesa/Workspace/training/spring-boot-example/conference-demo/src/main/java/com/pluralsight/conferencedemo/config/PersistenceConfiguration.java
+/Users/jmesa/Workspace/training/spring-boot-example/conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/SessionsController.java
+/Users/jmesa/Workspace/training/spring-boot-example/conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/SpeakersController.java
+/Users/jmesa/Workspace/training/spring-boot-example/conference-demo/src/main/java/com/pluralsight/conferencedemo/models/Speaker.java
+/Users/jmesa/Workspace/training/spring-boot-example/conference-demo/src/main/java/com/pluralsight/conferencedemo/models/Session.java
+/Users/jmesa/Workspace/training/spring-boot-example/conference-demo/src/main/java/com/pluralsight/conferencedemo/repositories/SessionRepository.java
+/Users/jmesa/Workspace/training/spring-boot-example/conference-demo/src/main/java/com/pluralsight/conferencedemo/repositories/SpeakerRepository.java
